@@ -5,15 +5,15 @@
 
    <h1> name: "Smarika",</h1>
 
-  <h1>  branch: "Science",</h1>
+  <h1>  Branch: "Science",</h1>
 
    <h1> Introduction: "Student",</h1>
 
    <h1> Skills: ["Skill1", "skill2", "skill3"],</h1>
 
-   <h1> socialsHandles: {</h1>
+   <h1> SocialsHandles: {</h1>
 
-    <h1>  github: "https://github.com/Smarikaswain/",</h1>
+    <h1>  Github: "https://github.com/Smarikaswain/",</h1>
 
 
 
