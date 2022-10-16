@@ -1,0 +1,26 @@
+<html>
+<body>{
+
+  <h1>  id: 0,</h1>
+
+   <h1> name: "Smarika",</h1>
+
+  <h1>  branch: "Science",</h1>
+
+   <h1> introduction: "Student",</h1>
+
+   <h1> skills: ["Skill1", "skill2", "skill3"],</h1>
+
+   <h1> socialsHandles: {</h1>
+
+    <h1>  github: "https://github.com/Smarikaswain/",</h1>
+
+
+
+
+
+ <h1>   },<h1>
+
+<h1>  },<h1>
+  </html>
+  </body>
