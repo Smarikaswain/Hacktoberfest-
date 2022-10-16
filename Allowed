@@ -7,9 +7,9 @@
 
   <h1>  branch: "Science",</h1>
 
-   <h1> introduction: "Student",</h1>
+   <h1> Introduction: "Student",</h1>
 
-   <h1> skills: ["Skill1", "skill2", "skill3"],</h1>
+   <h1> Skills: ["Skill1", "skill2", "skill3"],</h1>
 
    <h1> socialsHandles: {</h1>
 
